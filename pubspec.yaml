@@ -1,0 +1,30 @@
+name: reccomendation_cafe_app
+version: 1.0.0+1
+publish_to: none
+description: A new Flutter project.
+environment: 
+  sdk: '>=3.0.0-204.0.dev <4.0.0'
+
+dependencies: 
+  cupertino_icons: ^1.0.2
+  get: 4.6.5
+  ionicons: ^0.2.2
+  hexcolor: ^3.0.1
+  google_fonts: 4.0.3
+  firebase_core: 2.6.1
+  firebase_auth: 4.2.8
+  google_sign_in: 6.0.0
+  cloud_firestore: 4.4.2
+  flutter: 
+    sdk: flutter
+
+dev_dependencies: 
+  flutter_lints: ^2.0.0
+  flutter_test: 
+    sdk: flutter
+
+flutter: 
+  assets: 
+    - assets/
+  uses-material-design: true
+

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "895819260842",
+    "project_id": "reccomendation-cafe-app",
+    "storage_bucket": "reccomendation-cafe-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895819260842:android:8a5f3f49dc6104503201d3",
+        "android_client_info": {
+          "package_name": "com.example.reccomendation_cafe_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "895819260842-ha392t0lrpbuubqccohhm3914bsec65p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.reccomendation_cafe_app",
+            "certificate_hash": "82f27af886fc04456a29b883194e0c622b3dfbd7"
+          }
+        },
+        {
+          "client_id": "895819260842-1t1vi1ebj1be78uetvlr42a890rrdl9l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8PSzZZMCAjY7zRY77l4XIlPiK2z20o6o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "895819260842-1t1vi1ebj1be78uetvlr42a890rrdl9l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
